@@ -17,7 +17,7 @@ MY_FEEDS_TITLE = u'KindleEar'
 MY_FEEDS_DESC = u'RSS delivering from KindleEar'
 
 #default timeout for network connection
-CONNECTION_TIMEOUT = 60
+CONNECTION_TIMEOUT = 90
 
 # True to translate filename in chinese to pinyin
 PINYIN_FILENAME = False
